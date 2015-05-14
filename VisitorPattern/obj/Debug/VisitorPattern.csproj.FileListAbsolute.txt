@@ -1,0 +1,6 @@
+D:\Practices\DotNet\DesignPatterns\VisitorPattern\bin\Debug\VisitorPattern.exe.config
+D:\Practices\DotNet\DesignPatterns\VisitorPattern\obj\Debug\VisitorPattern.csprojResolveAssemblyReference.cache
+D:\Practices\DotNet\DesignPatterns\VisitorPattern\bin\Debug\VisitorPattern.exe
+D:\Practices\DotNet\DesignPatterns\VisitorPattern\bin\Debug\VisitorPattern.pdb
+D:\Practices\DotNet\DesignPatterns\VisitorPattern\obj\Debug\VisitorPattern.exe
+D:\Practices\DotNet\DesignPatterns\VisitorPattern\obj\Debug\VisitorPattern.pdb

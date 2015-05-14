@@ -1,0 +1,6 @@
+D:\Practices\DotNet\DesignPatterns\MementoPattern\bin\Debug\MementoPattern.exe.config
+D:\Practices\DotNet\DesignPatterns\MementoPattern\obj\Debug\MementoPattern.csprojResolveAssemblyReference.cache
+D:\Practices\DotNet\DesignPatterns\MementoPattern\bin\Debug\MementoPattern.exe
+D:\Practices\DotNet\DesignPatterns\MementoPattern\bin\Debug\MementoPattern.pdb
+D:\Practices\DotNet\DesignPatterns\MementoPattern\obj\Debug\MementoPattern.exe
+D:\Practices\DotNet\DesignPatterns\MementoPattern\obj\Debug\MementoPattern.pdb

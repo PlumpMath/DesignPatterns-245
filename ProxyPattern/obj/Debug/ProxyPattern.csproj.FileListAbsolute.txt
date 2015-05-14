@@ -1,0 +1,5 @@
+D:\Practices\DotNet\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+D:\Practices\DotNet\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.exe
+D:\Practices\DotNet\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.pdb
+D:\Practices\DotNet\DesignPatterns\ProxyPattern\obj\Debug\ProxyPattern.exe
+D:\Practices\DotNet\DesignPatterns\ProxyPattern\obj\Debug\ProxyPattern.pdb

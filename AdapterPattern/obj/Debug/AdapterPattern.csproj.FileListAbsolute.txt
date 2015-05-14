@@ -1,0 +1,6 @@
+D:\Practices\DotNet\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+D:\Practices\DotNet\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\Practices\DotNet\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\Practices\DotNet\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+D:\Practices\DotNet\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\Practices\DotNet\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.pdb

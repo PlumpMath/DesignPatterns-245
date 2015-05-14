@@ -1,0 +1,5 @@
+D:\Practices\DotNet\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+D:\Practices\DotNet\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.exe
+D:\Practices\DotNet\DesignPatterns\PrototypePattern\bin\Debug\PrototypePattern.pdb
+D:\Practices\DotNet\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.exe
+D:\Practices\DotNet\DesignPatterns\PrototypePattern\obj\Debug\PrototypePattern.pdb

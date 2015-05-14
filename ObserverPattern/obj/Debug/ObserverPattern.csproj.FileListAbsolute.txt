@@ -1,0 +1,5 @@
+D:\Practices\DotNet\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+D:\Practices\DotNet\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe
+D:\Practices\DotNet\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
+D:\Practices\DotNet\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.exe
+D:\Practices\DotNet\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.pdb
